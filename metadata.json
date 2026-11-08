@@ -1,0 +1,6 @@
+{
+  "name": "LiquidGlass Music Widget",
+  "description": "Cinematic macOS desktop music widget with 3D perspective album carousel, liquid glass controls, and live laptop playback sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
